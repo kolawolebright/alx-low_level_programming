@@ -1,1 +1,1 @@
-Starting to work on C language
+Project 2 on C
